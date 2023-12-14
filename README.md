@@ -1,4 +1,4 @@
-- 👋 Olá, meu nome é Hendel!
+- 👋 Olá, meu nome é **Hendel**!
 - 👀 Tenho interesse em Javascript, HTML e CSS.
 - 🌱 No momento estou cursando um bootcamp na DIO.
 
